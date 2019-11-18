@@ -1,8 +1,8 @@
-Dermatologist AI
+# Dermatologist AI
 
-Excellent mini-project presented by
+**Excellent** mini-project presented by _Sebastien Thrun_
 
-Getting started
+## Getting started
 1. Clone the repository and create a data/ folder to hold the dataset of skin images.
 
 'Git clone https://github.com/udacity/dermatologist-ai.git'
@@ -14,7 +14,9 @@ Getting started
 
 4. Download and unzip the test data (5.1 GB).
 
-Create a Model
+`code to add`
+
+## Create a Model
 
 The work was inspired from the various articles on this topic
 - If you would like to read more about some of the algorithms that were successful in this competition, please read this article that discusses some of the best approaches. A few of the corresponding research papers appear below.
