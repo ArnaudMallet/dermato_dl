@@ -1,4 +1,8 @@
 data/
 images/
 __pycache__/
+.ipynb_checkpoints/Dermato_AI-checkpoint.ipynb
 .ipynb_checkpoints/
+.ipynb_checkpoints
+model_transfer.pt
+test/
