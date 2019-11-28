@@ -6,3 +6,9 @@ __pycache__/
 .ipynb_checkpoints
 model_transfer.pt
 test/
+get_results.py
+ground_truth.csv
+paths.txt
+requirements.txt
+results.csv
+sample_predictions.csv
