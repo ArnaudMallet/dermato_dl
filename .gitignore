@@ -12,3 +12,4 @@ paths.txt
 requirements.txt
 results.csv
 sample_predictions.csv
+model_inception.pt
